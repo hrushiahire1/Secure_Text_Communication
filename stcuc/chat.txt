@@ -1,0 +1,15 @@
+Server: hiii
+Client: what's up
+Server: what are you doing
+Server: how are you
+Client: how are you
+Server: where are you form? what is your favourite food? which is your favourite movie?
+Client: pune, chicken, non.....what about you
+Server: hii
+Client: whatsup
+Server: hello hello
+Client: what are you doing
+Server: friend hai na
+Server: hello
+Server: hiii
+Client: whats up
